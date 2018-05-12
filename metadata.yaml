@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36477'
     url: http://www.gutenberg.org/2009/agents/36477
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33976#Jane-Stewardess-of-the-Air-Lines
 gutenberg_issued: '2010-09-26'
 gutenberg_type: Text
 identifiers:

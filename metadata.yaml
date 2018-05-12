@@ -1,0 +1,26 @@
+_repo: Jane-Stewardess-of-the-Air-Lines_33976
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wheeler, Ruthe S.
+    gutenberg_agent_id: '36477'
+    url: http://www.gutenberg.org/2009/agents/36477
+description: ''
+gutenberg_issued: '2010-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33976'
+  lccn: '39010528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Flight attendants -- Juvenile fiction'
+- !lcsh 'Airplanes -- Juvenile fiction'
+- !lcc 'PZ'
+title: Jane, Stewardess of the Air Lines
+url: http://www.gutenberg.org/ebooks/33976
